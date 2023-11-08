@@ -1,3 +1,4 @@
+# Trabalhando com variáveis 
 print('Bem-Vindo ao Nickname Generator.')
 
 cidade = input("Qual o primeiro nome da sua cidade?\n")
